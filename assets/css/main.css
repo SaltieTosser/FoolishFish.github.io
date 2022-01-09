@@ -1663,11 +1663,11 @@ input, select, textarea {
 
 			#main .thumb > h2 {
 				pointer-events: none;
-				bottom: 1.875em;
+				top: .5em;
 				font-size: 0.8em;
 				left: 2.1875em;
 				margin: 0;
-				position: absolute;
+				position: center;
 				z-index: 1;
 			}
 
