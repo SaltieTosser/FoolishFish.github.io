@@ -235,7 +235,24 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1 {
+		color: #e6de49;
+		font-weight: 700;
+		letter-spacing: 0.1em;
+		line-height: 1.5;
+		margin: 0 0 1em 0;
+		text-transform: uppercase;
+		}
+	
+	h2 {
+		color: #3375d6;
+		font-weight: 500;
+		letter-spacing: 0.1em;
+		line-height: 1.5;
+		margin: 0 0 1em 0;
+		text-transform: uppercase;
+		}
+	h1, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-weight: 300;
 		letter-spacing: 0.1em;
@@ -1637,11 +1654,11 @@ input, select, textarea {
 				background-repeat: no-repeat;
 				background-size: cover;
 				border: 0;
-				height: 75%;
+				height: 85%;
 				left: 0;
 				position: absolute;
 				top: 0;
-				width: 75%;
+				width: 85%;
 			}
 
 			#main .thumb > h2 {
