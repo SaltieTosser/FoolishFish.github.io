@@ -231,7 +231,7 @@ input, select, textarea {
 		font-style: italic;
 	}
 
-	p {
+	p {	color: #e6de49;
 		margin: 0 0 2em 0;
 	}
 
