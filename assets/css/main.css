@@ -1636,13 +1636,17 @@ input, select, textarea {
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: cover;
-				border: 0;
+				border:  3px solid #555;
 				height: 100%;
 				left: 0;
 				position: absolute;
 				top: 0;
 				width: 100%;
 			}
+
+			imgbor {
+  				border: 5px solid #555;
+				}
 
 			#main .thumb > h2 {
 				pointer-events: none;
