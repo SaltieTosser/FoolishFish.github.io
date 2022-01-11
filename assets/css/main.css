@@ -1649,9 +1649,9 @@ input, select, textarea {
 			
 			#imageh {
 				-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
-				border:  5px solid #F7F9F9 ;
-				border-bottom: 5px solid #F7F9F9 ;
-				border-top: 5px solid #F7F9F9 ;
+				border:  5px solid #F7F9F9;
+				border-bottom: 5px solid #F7F9F9;
+				border-top: 5px solid #F7F9F9;
 				height: 95%;
 			}
 
