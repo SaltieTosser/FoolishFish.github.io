@@ -1636,9 +1636,9 @@ input, select, textarea {
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: cover;
-				border:  5px solid #555;
-				border-bottom: 5px solid #555;
-				border-top: 5px solid #555;
+				border:  5px solid #99A3A4;
+				border-bottom: 5px solid #99A3A4;
+				border-top: 5px solid #99A3A4;
 				height: 95%;
 				left: 0;
 				position: absolute;
@@ -1657,7 +1657,7 @@ input, select, textarea {
 			}
 
 			imgbor {
-  				border: 5px solid #555;
+  				border: 5px solid #F4F6F7;
 				}
 
 			#main .thumb > h2 {
