@@ -1627,7 +1627,7 @@ input, select, textarea {
 				height: 100%;
 				left: 0;
 				position: absolute;
-				top: 0;
+				top: 1;
 				width: 100%;
 			}
 
