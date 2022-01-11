@@ -243,15 +243,6 @@ input, select, textarea {
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
 		}
-
-	h7 {
-		color: #e6de49;
-		font-weight: 600;
-		letter-spacing: 0.1em;
-		line-height: 1.5;
-		margin: 0 0 1em 0;
-		text-transform: uppercase;
-		}
 	
 	h2 {
 		color: #d1d0c0;
@@ -276,7 +267,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 4em;
+		font-size: 3.5em;
 	}
 
 	h2 {
