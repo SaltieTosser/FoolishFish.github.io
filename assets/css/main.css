@@ -1636,9 +1636,9 @@ input, select, textarea {
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: cover;
-				border:  5px solid #99A3A4;
-				border-bottom: 5px solid #99A3A4;
-				border-top: 5px solid #99A3A4;
+				border:  5px solid #F7F9F9 ;
+				border-bottom: 5px solid #F7F9F9;
+				border-top: 5px solid #F7F9F9;
 				height: 95%;
 				left: 0;
 				position: absolute;
@@ -1649,11 +1649,10 @@ input, select, textarea {
 			
 			#imageh {
 				-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
-				border:  5px solid #555;
-				border-bottom: 5px solid #555;
-				border-top: 5px solid #555;
+				border:  5px solid #F7F9F9 ;
+				border-bottom: 5px solid #F7F9F9 ;
+				border-top: 5px solid #F7F9F9 ;
 				height: 95%;
-					
 			}
 
 			imgbor {
